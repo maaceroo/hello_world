@@ -1,2 +1,3 @@
 # hello_world
 Learning the basics of GitHub. Need to use this tool to create...
+I'll do as much as I can in irder to understand how GitHub works so I can take the most of it.
